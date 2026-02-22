@@ -20,3 +20,4 @@ makepkg -si
 * tuipaper has some command line arguments `--disable-color`, `--accent <hex>`,`--interval <minutes>`
 
 # showcase
+![Showcase of TUI](showcase2.png)
